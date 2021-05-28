@@ -1,5 +1,7 @@
 ## Learning to Localize Objects using Limited Annotation, with Applications to Thoracic Diseases
-#### [Paper](https://ieeexplore.ieee.org/abstract/document/9416490)
+#### [IEEE paper](https://ieeexplore.ieee.org/abstract/document/9416490)
+## Localization with Limited Annotation for Chest X-rays
+#### [PMLR paper](http://proceedings.mlr.press/v116/rozenberg20a.html)
 
 ### Note
 We will publish our code here shortly
