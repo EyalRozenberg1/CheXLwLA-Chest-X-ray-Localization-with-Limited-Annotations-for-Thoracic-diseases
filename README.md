@@ -2,4 +2,4 @@
 #### [Paper](link to published work)
 
 ### Note
-We will publish our code here shortly after our work will be published
+We will publish our code here shortly
