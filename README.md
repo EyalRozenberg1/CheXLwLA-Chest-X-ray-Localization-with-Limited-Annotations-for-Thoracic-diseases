@@ -1,5 +1,5 @@
-## Localization of thoracic diseases in chest x-rays using limited annotation datasets
-#### [Paper](link to published work)
+## Learning to Localize Objects using Limited Annotation, with Applications to Thoracic Diseases
+#### [Paper](https://ieeexplore.ieee.org/abstract/document/9416490)
 
 ### Note
 We will publish our code here shortly
